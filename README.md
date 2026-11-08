@@ -1,6 +1,6 @@
 # Código de la tesis de maestría
 
-Este repositorio contiene el código utilizado para los experimentos de mi tesis de la Maestría en Ingeniería Matemática de la Facultad de Ingeniería, Universidad de la República (Uruguay).
+Este repositorio contiene el código utilizado para los experimentos de mi tesis de Maestría en Ingeniería Matemática de la Facultad de Ingeniería, Universidad de la República (Uruguay).
 
 Este trabajo estudia la distancia de Fermat aplicada a datos genómicos para representar la estructura poblacional en baja dimensión. Se caracteriza teóricamente cuándo la distancia introduce “atajos” que modifican las relaciones de proximidad y se evalúa su efecto en simulaciones y en datos humanos reales.
 
